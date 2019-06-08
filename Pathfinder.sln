@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pathfinder", "Pathfinder\Pathfinder.csproj", "{15BCC6AC-A94C-4C7E-A904-42C7D9A9E8C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PathfinderTests", "PathfinderTests\PathfinderTests.csproj", "{48682373-A92B-4F59-8177-F7734BC3221F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BCC6AC-A94C-4C7E-A904-42C7D9A9E8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BCC6AC-A94C-4C7E-A904-42C7D9A9E8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BCC6AC-A94C-4C7E-A904-42C7D9A9E8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BCC6AC-A94C-4C7E-A904-42C7D9A9E8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48682373-A92B-4F59-8177-F7734BC3221F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48682373-A92B-4F59-8177-F7734BC3221F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48682373-A92B-4F59-8177-F7734BC3221F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48682373-A92B-4F59-8177-F7734BC3221F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A2C6CC4-EAE8-46EE-8E44-129E8A2260B5}
+	EndGlobalSection
+EndGlobal
